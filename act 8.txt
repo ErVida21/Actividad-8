@@ -1,0 +1,50 @@
+Primera parte
+Te la entrego así porque tengo que estudiar más asignaturas.
+
+
+Placa base:ASUS TUF GAMING B650-PLUS
+https://www.pccomponentes.com/asus-tuf-gaming-b650-plus
+
+    Marca y socket de procesador compatible:AMD AM5
+    Tipo de memoria RAM y capacidad máxima:, Max. 128GB, DDR5
+    Tipo de almacenamiento compatible: M.2
+    Formato de la placa base (tamaño):ATX
+
+Procesador:AMD Ryzen 5
+https://www.pccomponentes.com/amd-ryzen-5-7600x-47-ghz-box-sin-ventilador
+
+    Marca: AMD
+    Socket: AM5
+    Gráficos integrados (sí/no): Sí
+    Núcleos: AMD Ryzen
+    Frecuencia base:4.7 GHz
+
+Memoria RAM:Corsair Vengeance
+https://www.pccomponentes.com/corsair-vengeance-ddr5-6000mhz-32gb-2x16gb-cl36-negra
+
+    Tipo:DDR5
+    Formato:CL36 Negra
+    Capacidad:32GB
+
+Almacenamiento (disco): WD BLACK SN770 2TB NVMe SSD
+https://www.pccomponentes.com/wd-black-sn770-2tb-nvme-ssd
+
+    Capacidad
+    Tipo de disco
+    Conector
+
+Torre (caja)
+
+    Formato (tamaño)
+
+Fuente de alimentación
+
+    Potencia
+    Formato
+    Eficiencia
+
+Monitor
+
+    Resolución
+    Pulgadas
+    Tipo de conexión con la placa
